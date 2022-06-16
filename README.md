@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xenon-pyon
 - 👀 I’m interested in python programming
 - i have created several python projects likE browsers , AI , Decrypted , Rock, Papep, Scissors game etc.....
-- i am looking to colaborate on another python projects
+- i am looking to colaborate on other python projects
 - 📫 How to reach me - email - arihant.yadav111@gmail.com
